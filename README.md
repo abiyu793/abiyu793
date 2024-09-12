@@ -53,12 +53,15 @@
 </div>
 
 ###
+
+# What im doing Now <br>
+Saya seorang **Curriculum Developer** di [Dicoding](https://www.dicoding.com/users/abiyusofyan/academies/).<br>
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun , [Linkedin](https://www.linkedin.com/in/abiyu-sofyan-696b54222/) .ku ya.
+
 ### Github Statistic
 <p align="left">
 <a href="https://github.com/abiyu793">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=abiyu793&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
 </p>
-# What im doing Now
-Saya seorang **Curriculum Developer** di [Dicoding](https://www.dicoding.com/users/abiyusofyan/academies/).<br>
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun , [Linkedin](https://www.linkedin.com/in/abiyu-sofyan-696b54222/).ku ya.
+
