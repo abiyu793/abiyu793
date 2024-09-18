@@ -1,7 +1,7 @@
 <div align="center">
-  [<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />](https://www.linkedin.com/in/abiyu-sofyan-696b54222/).
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+<a href="https://www.linkedin.com/in/abiyu-sofyan-696b54222/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+<a href="https://www.youtube.com/@abiyusofyan7903"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+<a href="https://twitter.com/abiyus52" ><img src="https://img.shields.io/static/v1?message=twiter&logo=X&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
 </div>
 
 ###
@@ -15,7 +15,7 @@
 ###
 
 
-<p align="left">I'm **Abiyu Sofyan** from Bogor-Indonesia<br><br>- 🔭 I’m student at Universitas Indraprasta PGRI<br>- 📚 I'm currently learning Mobile Development<br>- ⚡ In my free time I playing Game</p>
+<p align="left">I'm Abiyu Sofyan from Bogor-Indonesia<br><br>- 🔭 I’m student at Universitas Indraprasta PGRI<br>- 📚 I'm currently learning Mobile Development<br>- ⚡ In my free time I playing Game</p>
 
 ###
 
@@ -46,17 +46,11 @@
 ###
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt=["linkedin logo"](https://www.linkedin.com/in/abiyu-sofyan-696b54222/)  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  <a href="https://www.linkedin.com/in/abiyu-sofyan-696b54222/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"/>
+ <a href="https://twitter.com/abiyus52" > <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  <a href="https://discord.gg/CanjtzhPux"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <a href="https://www.youtube.com/@abiyusofyan7903"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
 </div>
-
-###
-
-# What im doing Now <br>
-Saya seorang **Curriculum Developer** di [Dicoding](https://www.dicoding.com/users/abiyusofyan/academies/).<br>
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun , [Linkedin](https://www.linkedin.com/in/abiyu-sofyan-696b54222/) .ku ya.
 
 ### Github Statistic
 <p align="left">
